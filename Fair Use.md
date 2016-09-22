@@ -1,7 +1,8 @@
 # **Mashup Defense**
 
+<p align="center">
  [![IMAGE ALT TEXT](DJ Earworm.png)](https://youtu.be/yVhzKSGH2As)
-
+</p>
 
 
 DJ Earworm has been around for a couple of years, creating mixes and blends that capture the spirit of the summer using the yearly hits. The majority of his mash-ups are composed from the instrumental and vocal tracks of about 15 songs. Since he produces his songs under DJ Earworm, his songs can be defined as _pseudonymous works_ because they are phonorecords of which the author is identified under a fictitious name. 

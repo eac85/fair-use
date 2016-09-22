@@ -32,7 +32,7 @@ The purpose of this is to analyze the  [DJ Earworm's Summer '16 Mashup](http://d
 
 ##**Summary**
 | Factors | Justification |
-|*-----   | *----* |
+|:-----   | :----: |
 |The purpose and character of its use| Transformative |
 |The nature of the copyrighted work| Created from published works |
 |The amount and sustainability of the portion taken| Used small portions of 19 different songs/clips |

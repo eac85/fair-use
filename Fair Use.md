@@ -27,11 +27,14 @@ The purpose of this is to analyze the  [DJ Earworm's Summer '16 Mashup](http://d
 4. _The effect of the use upon the potential market:_  
 	The 17 U.S. Code defines “financial gain” as inclusive of receipt, or expectation of receipt, of anything of value, including the receipt of other copyrighted works. Under that definition, DJ Earworm has no intention of making money from his music from the moment he begins creating it. Therefore his music is undoubtedly fair. In an interview with DJ Earworm, that can be found [here](http://www.digitaldjtips.com/2011/02/dj-earworm-interview-i-prefer-to-call-myself-a-data-jockey/), he says the songs provide no financial gain for him.  
 
->Interviewer:   
->And if you don't mind me asking, how do you actually earn your income? I mean, I presume you can't make any money off the mash-ups themselves?  
->DJ Earworm:  
->No, I don't sell my mash-ups - I don't get anything from sales. When I put stuff together it's more promotional.  
+>Interviewer: And if you don't mind me asking, how do you actually earn your income? I mean, I presume you can't make any money off the mash-ups themselves?  
+>DJ Earworm: No, I don't sell my mash-ups - I don't get anything from sales. When I put stuff together it's more promotional.  
 
-
-	
+##**Summary**
+| Factors | Justification |
+|*-----   | *----* |
+|The purpose and character of its use| Transformative |
+|The nature of the copyrighted work| Created from published works |
+|The amount and sustainability of the portion taken| Used small portions of 19 different songs/clips |
+|The effect of the use upon the potential market | DJ Earworm makes no money from his work |
 

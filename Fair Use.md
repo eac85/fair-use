@@ -41,4 +41,4 @@ In summation, DJ Earworm' Summer '16 Mash Up does not violate CopyRight laws und
 |The amount and sustainability of the portion taken| Used small portions of 19 different songs/clips |
 |The effect of the use upon the potential market | DJ Earworm makes no money from his work |
 
-Visit his site _Djearworm.com_for more mash-ups like this one. 
+Visit his [site](djearworm.com) for more mash-ups like this one. 

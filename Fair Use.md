@@ -5,7 +5,7 @@
 
 
 
-DJ Earworm has been around for a couple of years, creating mixes and blends that capture the spirit of the summer using the yearly hits. The majority of his mash-ups are composed from the instrumental and vocal tracks of about 15 songs. Since he produces his songs under DJ Earworm, his songs can be defined as _pseudonymous works_ because they are phonorecords of which the author is identified under a fictitious name. 
+DJ Earworm has been around for a couple of years, creating mixes and blends that capture the spirit of the summer using the yearly hits. The majority of his mash-ups are composed from the instrumental and vocal tracks of about 15 songs. Since he produces his songs under DJ Earworm, his songs can be defined as _pseudonymous works_ because they are phonorecords of which the author is identified under a fictitious name.  
 The purpose of this is to analyze the  [DJ Earworm's Summer '16 Mashup](http://djearworm.com/Mashups.php) to prove that it should be considered Fair Use. Since all of the songs are released with a corresponding music video that uses the tidbits of the music videos produced for the songs in the mash-up, I think it is important to also explore the legality of those.  In order to fairly analyze this mashup, we will consider the same four factors that judges consider in judicial cases of Fair Use.
 
 
@@ -31,7 +31,7 @@ The purpose of this is to analyze the  [DJ Earworm's Summer '16 Mashup](http://d
 >Interviewer: And if you don't mind me asking, how do you actually earn your income? I mean, I presume you can't make any money off the mash-ups themselves?  
 >DJ Earworm: No, I don't sell my mash-ups - I don't get anything from sales. When I put stuff together it's more promotional.  
 
-In summation, DJ Earworm' Summer '16 Mash Up does not violate CopyRight laws under Fair use. His intentions were pure and he did not cause discredit or harm to any of the artists on the track. I can assume that the artists may even enjoy his compilations because they bring light to new aspects of their songs. Even though Fair Use laws are generally vague, a valid argument can be made for most cases. 
+In summation, DJ Earworm's Summer '16 Mash Up does not violate CopyRight laws under Fair use. His intentions were pure and he did not cause discredit or harm to any of the artists on the track. I can assume that the artists may even enjoy his compilations because they bring light to new aspects of their songs. Even though Fair Use laws are generally vague, a valid argument can be made for most cases. 
 
 ##**Summary**
 | Factors | Justification |
